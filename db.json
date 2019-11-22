@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "shopping": [
+    {
+      "id": 2,
+      "name": "vada"
+    },
+    {
+      "id": "42c6daa7-d90e-4fbc-a0fe-b6dcd3ca354c",
+      "name": ""
+    },
+    {
+      "id": "977cc213-5977-4629-8316-f0c49f359e20",
+      "name": "chatni"
+    }
+  ]
+}
